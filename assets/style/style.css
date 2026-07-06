@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'nozha';
+    src: url(../font/Digi-Nozha2-Boldwww.digifonts.ir_/Digi\ Nozha2\ Bold.ttf) format('truetype')
+}
+body{
+    font-family: 'nozha';
+}
+.error{
+    color: red;
+    font-size: 1.1rem;
+}
