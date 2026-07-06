@@ -1,4 +1,4 @@
-Registration System
+Sign in system
 
 A responsive web application that captures user data with real-time validation and displays it dynamically using browser storage.
 
